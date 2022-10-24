@@ -97,7 +97,7 @@ _A collection of awesome YouTube channels and playlists about the Spring landsca
 
 ## Contributing
 
-Dulanjaya Sandaruwan
+Dulanjaya Sandaruwan -
 Trainee Software Engineer
 
 Thank you!
